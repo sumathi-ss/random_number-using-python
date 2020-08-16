@@ -1,0 +1,8 @@
+import random
+for x in range(500)
+    n=random.randint(1,500)
+    print(n)
+for x in range(10)
+    list1=[random.randint(1,500) for _ in range(10)]
+    list1.sort()
+    print(list1)
